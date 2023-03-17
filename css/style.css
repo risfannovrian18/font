@@ -1,0 +1,41 @@
+html. body {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    line-height: 1.65;
+    background-color: #04293A;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    display: flex;
+    
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+
+}
+
+.card-body {
+    background-color: #8BF5FA;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    padding: 20px 40px;
+}
+
